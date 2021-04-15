@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Epafroditus George</h1>
+<h1 align="center">Hi, I'm Epafroditus George</h1>
 <h3 align="center">Software Engineer | Web Developer | Data Analysis Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/epafroditus-george-5b66bb1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="george" height="30" width="40" /></a>
@@ -24,9 +24,8 @@
 ✔ I’m currently Working as a Fullstack Developer<br>
 ✔ I’m currently learning **React-Native** <br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-<br><br><br>
+<br><br>
  
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"></code>
